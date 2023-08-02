@@ -1,6 +1,6 @@
 # CRecMent
 The project was carried out during the Cybersecurity Seminars course. \
-The main goal was to find a new innovative idea based on one of the seminars followed during the course. \
+The main goal was to find a new innovative idea based on one of the seminars followed during the course. 
 The solution proposed in this report is based on blockchain technology. \
 A summary of the project described in the report follows:
 There are different problems that governments have to handle when dealing with the maintenance and usability of criminal records. 
