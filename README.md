@@ -2,7 +2,7 @@
 The project was carried out during the Cybersecurity Seminars course. \
 The main goal was to find a new innovative idea based on one of the seminars followed during the course. \
 The solution proposed in this report is based on blockchain technology. \
-It follows a summary of the idea described in the report:
+A summary of the project described in the report follows:
 There are different problems that governments have to handle when dealing with the maintenance and usability of criminal records. 
 In this approach, the main change is to go from a traditional infrastructure that is client-server, to a blockchain infrastructure that is decentralized. 
 The Blockchain is a system in which the data is not stored in a central data storage system, such as in databases, but multiple nodes have their local view of the data.
